@@ -7,14 +7,15 @@ Prerequisites (in /installers directory):
 
 Mods included:
 
-* [Damage Indicators](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286538-hit-splat-damage-indicators) (3.3.3)
 * [CodeChickenCore and NotEnoughItems](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods) (1.0.5.34 / 1.0.5.82)
-* [Xaero's Special Attacks](http://www.planetminecraft.com/mod/forge164xaeros-special-attacks-v100/) (1.1.3)
+* [Damage Indicators](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286538-hit-splat-damage-indicators) (3.3.3)
 * [Lucky Block](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292247-lucky-block) (5.2.0)
-* [Village Info](http://chunkbase.com/mods/village-info) (2.1)
 * [OptiFine](http://optifine.net) (HD U C6)
+* [Simple Recipes](http://www.wuppy29.com/minecraft/category/simple-recipes/) (1.9.0)
+* [Village Info](http://chunkbase.com/mods/village-info) (2.1)
 * [VoxelMap](http://minecraft.curseforge.com/mc-mods/225179-voxelmap) (1.4.8)
+* [Xaero's Special Attacks](http://www.planetminecraft.com/mod/forge164xaeros-special-attacks-v100/) (1.1.3)
 
 Notes & Todos:
 
-* Forge v11.14.0.1295 does not seem to play nicely with the latest version of OptiFine. I will upgrade Forge once the support is there
+* Forge v11.14.0.1295 does not seem to play nicely with the latest version of OptiFine. I will upgrade Forge once the support is there.
