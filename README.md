@@ -10,6 +10,7 @@ Mods included:
 * [CodeChickenCore and NotEnoughItems](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods) (1.0.5.34 / 1.0.5.88)
 * [Damage Indicators](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286538-hit-splat-damage-indicators) (3.3.3)
 * [Dr. Cyano's Lootable Bodies](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2298198-dr-cyanos-lootable-bodies) (1.3.2)
+* [Inventory Tweaks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks) (1.59-beta-172)
 * [Koi](http://www.wuppy29.com/minecraft/mods/koi/) (1.11.3)
 * [Lucky Block](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292247-lucky-block) (5.2.0)
 * [OptiFine](http://optifine.net) (HD U D1)
