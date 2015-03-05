@@ -17,7 +17,7 @@ Mods included:
 * [Simple Recipes](http://www.wuppy29.com/minecraft/category/simple-recipes/) (1.9.0)
 * [Village Info](http://chunkbase.com/mods/village-info) (2.1)
 * [VoxelMap](http://minecraft.curseforge.com/mc-mods/225179-voxelmap) (1.5.1)
-* [Xaero's Special Attacks](http://www.planetminecraft.com/mod/forge164xaeros-special-attacks-v100/) (2.0)
+* [Xaero's Special Attacks](http://www.planetminecraft.com/mod/forge164xaeros-special-attacks-v100/) (2.0.1)
 
 Notes & Todos:
 
