@@ -16,6 +16,7 @@ Mods included:
 * [More Enchantments](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1445082-more-enchantments) (1.3.2.1)
 * [OptiFine](http://optifine.net) (HD U D1)
 * [Simple Recipes](http://www.wuppy29.com/minecraft/category/simple-recipes/) (1.9.0)
+* [Simple Refinement](http://www.curse.com/mc-mods/minecraft/227221-simple-refinement) (1.0)
 * [Village Info](http://chunkbase.com/mods/village-info) (2.1)
 * [VoxelMap](http://minecraft.curseforge.com/mc-mods/225179-voxelmap) (1.5.4)
 * [Xaero's Special Attacks](http://www.planetminecraft.com/mod/forge164xaeros-special-attacks-v100/) (2.0.1)
