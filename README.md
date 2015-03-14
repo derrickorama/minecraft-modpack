@@ -1,5 +1,7 @@
 Just a nice little set of mods that myself and others have been using in Minecraft. Only adding 1.8 for now.
 
+# Note: This branch includes an older version of VoxelMap. Players were experiencing blackouts with versions > v1.5.1. This branch is for those players.
+
 Prerequisites (in /installers directory):
 
 * [Forge](http://files.minecraftforge.net) (11.14.0.1295)
@@ -18,7 +20,7 @@ Mods included:
 * [Simple Recipes](http://www.wuppy29.com/minecraft/category/simple-recipes/) (1.9.0)
 * [Simple Refinement](http://www.curse.com/mc-mods/minecraft/227221-simple-refinement) (1.0)
 * [Village Info](http://chunkbase.com/mods/village-info) (2.1)
-* [VoxelMap](http://minecraft.curseforge.com/mc-mods/225179-voxelmap) (1.5.4)
+* [VoxelMap](http://minecraft.curseforge.com/mc-mods/225179-voxelmap) (1.5.1)
 * [Xaero's Special Attacks](http://www.planetminecraft.com/mod/forge164xaeros-special-attacks-v100/) (2.0.1)
 
 Notes & Todos:
