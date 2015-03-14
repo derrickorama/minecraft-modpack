@@ -16,9 +16,10 @@ Mods included:
 * [OptiFine](http://optifine.net) (HD U D1)
 * [Simple Recipes](http://www.wuppy29.com/minecraft/category/simple-recipes/) (1.9.0)
 * [Village Info](http://chunkbase.com/mods/village-info) (2.1)
-* [VoxelMap](http://minecraft.curseforge.com/mc-mods/225179-voxelmap) (1.5.3)
+* [VoxelMap](http://minecraft.curseforge.com/mc-mods/225179-voxelmap) (1.5.4)
 * [Xaero's Special Attacks](http://www.planetminecraft.com/mod/forge164xaeros-special-attacks-v100/) (2.0.1)
 
 Notes & Todos:
 
+* Inventory Tweaks v1.59-beta-174 causes Minecraft to crash/not start
 * Support 1.8.1 once most of these mods are available.
