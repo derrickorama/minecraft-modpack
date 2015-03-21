@@ -17,6 +17,7 @@ Mods included:
 * [Quick Hotbar](http://www.quickhotbar.com) (1.04)
 * [Simple Recipes](http://www.wuppy29.com/minecraft/category/simple-recipes/) (1.9.0)
 * [Simple Refinement](http://www.curse.com/mc-mods/minecraft/227221-simple-refinement) (1.0)
+* [Vein Miner](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292260-1-5-x-1-6-x-vein-miner) (0.26.1)
 * [Village Info](http://chunkbase.com/mods/village-info) (2.1)
 * [VoxelMap](http://minecraft.curseforge.com/mc-mods/225179-voxelmap) (1.5.5)
 * [Xaero's Special Attacks](http://www.planetminecraft.com/mod/forge164xaeros-special-attacks-v100/) (2.0.1)
