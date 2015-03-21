@@ -14,6 +14,7 @@ Mods included:
 * [Lucky Block](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292247-lucky-block) (5.2.0)
 * [More Enchantments](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1445082-more-enchantments) (1.3.2.1)
 * [OptiFine](http://optifine.net) (HD U D1)
+* [Progressive Automation](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076388-progressive-automation) (1.5.24)
 * [Quick Hotbar](http://www.quickhotbar.com) (1.04)
 * [Simple Recipes](http://www.wuppy29.com/minecraft/category/simple-recipes/) (1.9.0)
 * [Simple Refinement](http://www.curse.com/mc-mods/minecraft/227221-simple-refinement) (1.0)
