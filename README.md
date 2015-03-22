@@ -13,11 +13,13 @@ Mods included:
 * [Damage Indicators](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286538-hit-splat-damage-indicators) (3.3.3)
 * [Dr. Cyano's Lootable Bodies](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2298198-dr-cyanos-lootable-bodies) (1.3.3)
 * [Inventory Tweaks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks) (1.59-beta-173)
+* [Item Physics (Full)](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076336-itemphysic) (1.1.2)
 * [Lucky Block](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292247-lucky-block) (5.2.0)
 * [More Enchantments](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1445082-more-enchantments) (1.3.2.1)
 * [OptiFine](http://optifine.net) (HD U D1)
 * [Progressive Automation](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076388-progressive-automation) (1.5.24)
 * [Quick Hotbar](http://www.quickhotbar.com) (1.04)
+* [Shipwrecks!](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291627-shipwrecks) (1.6.3)
 * [Simple Recipes](http://www.wuppy29.com/minecraft/category/simple-recipes/) (1.9.0)
 * [Simple Refinement](http://www.curse.com/mc-mods/minecraft/227221-simple-refinement) (1.0)
 * [Vein Miner](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292260-1-5-x-1-6-x-vein-miner) (0.26.1)
@@ -30,3 +32,9 @@ Notes & Todos:
 
 * Inventory Tweaks v1.59-beta-174 causes Minecraft to crash/not start
 * Support 1.8.1 once most of these mods are available.
+
+Under Consideration
+
+* [HxC-Core Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2351391-hxc-mods)
+* [Igneous Additions](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2357019-igneous-additions)
+* [Zombie Infection](http://www.curse.com/mc-mods/minecraft/227518-zombie-infection)
