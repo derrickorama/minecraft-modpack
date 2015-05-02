@@ -31,8 +31,7 @@ Mods included:
 
 Notes & Todos:
 
-* Inventory Tweaks v1.59-beta-174+ causes Minecraft to crash/not start
-* Support 1.8.1 once most of these mods are available.
+* Support 1.8.1+ once most of these mods are available.
 
 Under Consideration
 
