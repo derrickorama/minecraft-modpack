@@ -2,8 +2,8 @@ Just a nice little set of mods that myself and others have been using in Minecra
 
 Prerequisites (in /installers directory):
 
-* [Forge](http://files.minecraftforge.net) (11.14.1.1398)
-* [LiteLoader](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290155-liteloader-for-minecraft-1-7-10) (Build #42)
+* [Forge](http://files.minecraftforge.net) (11.14.1.1404)
+* [LiteLoader](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290155-liteloader-for-minecraft-1-7-10) (Build #43)
 
 Mods included:
 
@@ -14,6 +14,7 @@ Mods included:
 * [Inventory Tweaks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks) (1.59-176)
 * [Item Physics (Full)](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076336-itemphysic) (1.1.4)
 * [Lucky Block](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292247-lucky-block) (6.0.0)
+    * WARNING: This may be removed in the future as it seems that the mod was compromised.
 * [More Enchantments](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1445082-more-enchantments) (1.3.2.1)
 * [OptiFine](http://optifine.net) (HD U D3)
 * [Progressive Automation](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076388-progressive-automation) (1.6.15)
@@ -23,7 +24,7 @@ Mods included:
 * [Simple Refinement](http://www.curse.com/mc-mods/minecraft/227221-simple-refinement) (1.0)
 * [Vein Miner](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292260-1-5-x-1-6-x-vein-miner) (0.27.0)
 * [Village Info](http://chunkbase.com/mods/village-info) (2.1)
-* [VoxelMap](http://minecraft.curseforge.com/mc-mods/225179-voxelmap) (1.5.12b)
+* [VoxelMap](http://minecraft.curseforge.com/mc-mods/225179-voxelmap) (1.5.13)
 * [Xaero's Special Attacks](http://www.planetminecraft.com/mod/forge164xaeros-special-attacks-v100/) (2.0.1)
 * [YAFM and airbreathercore](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292539-yafm-yet-another-food-mod) (1.0.4 / 1.0.1)
 
