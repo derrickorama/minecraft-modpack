@@ -1,3 +1,5 @@
+## NOTE: THIS BRANCH FAVORS SHADERS OVER OPTIFINE
+
 Just a nice little set of mods that myself and others have been using in Minecraft. Only adding 1.8 for now.
 
 Prerequisites (in /installers directory):
@@ -16,9 +18,9 @@ Mods included:
 * [Lucky Block](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292247-lucky-block) (6.0.0)
     * WARNING: This may be removed in the future as it seems that the mod was compromised.
 * [More Enchantments](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1445082-more-enchantments) (1.3.2.1)
-* [OptiFine](http://optifine.net) (HD U D3)
 * [Progressive Automation](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076388-progressive-automation) (1.6.15)
 * [Quick Hotbar](http://www.quickhotbar.com) (1.04)
+* [ShadersMod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286604-shaders-mod) (v2.4.11)
 * [Shipwrecks!](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291627-shipwrecks) (1.6.3)
 * [Simple Recipes](http://www.wuppy29.com/minecraft/category/simple-recipes/) (1.9.0)
 * [Simple Refinement](http://www.curse.com/mc-mods/minecraft/227221-simple-refinement) (1.0)
