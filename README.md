@@ -31,6 +31,7 @@ Mods included:
 Notes & Todos:
 
 * Support 1.8.1+ once most of these mods are available.
+* Forge Build 11.14.1.1405 - 11.14.1.1412 do not work with the currrent mods. I need to investigate which ones don't work and/or if it's something Forge just needs to fix.
 
 Under Consideration
 
