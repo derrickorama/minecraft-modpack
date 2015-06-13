@@ -2,8 +2,8 @@ Just a nice little set of mods that myself and others have been using in Minecra
 
 Prerequisites (in /installers directory):
 
-* [Forge](http://files.minecraftforge.net) (11.14.1.1404)
-* [LiteLoader](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290155-liteloader-for-minecraft-1-7-10) (Build #43)
+* [Forge](http://files.minecraftforge.net) (11.14.1.1449)
+* [LiteLoader](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290155-liteloader-for-minecraft-1-7-10) (Build #45)
 
 Mods included:
 
@@ -14,12 +14,11 @@ Mods included:
 * [Inventory Tweaks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks) (1.59-176)
 * [Item Physics (Full)](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076336-itemphysic) (1.1.4)
 * [Lucky Block](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292247-lucky-block) (6.0.0)
-    * WARNING: This may be removed in the future as it seems that the mod was compromised.
 * [More Enchantments](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1445082-more-enchantments) (1.3.2.1)
 * [OptiFine](http://optifine.net) (HD U D3)
 * [Progressive Automation](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076388-progressive-automation) (1.6.15)
 * [Quick Hotbar](http://www.quickhotbar.com) (1.04)
-* [Shipwrecks!](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291627-shipwrecks) (1.6.3)
+* [Shipwrecks!](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291627-shipwrecks) (1.7.0)
 * [Simple Recipes](http://www.wuppy29.com/minecraft/category/simple-recipes/) (1.9.0)
 * [Simple Refinement](http://www.curse.com/mc-mods/minecraft/227221-simple-refinement) (1.0)
 * [Vein Miner](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292260-1-5-x-1-6-x-vein-miner) (0.27.0)
@@ -31,7 +30,6 @@ Mods included:
 Notes & Todos:
 
 * Support 1.8.1+ once most of these mods are available.
-* Forge Build 11.14.1.1405 - 11.14.1.1412 do not work with the currrent mods. I need to investigate which ones don't work and/or if it's something Forge just needs to fix.
 
 Under Consideration
 
