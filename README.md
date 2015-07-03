@@ -1,6 +1,9 @@
+Just a nice little set of mods that myself and others have been using in Minecraft. Only adding 1.8 for now.
+
 ## NOTE: THIS BRANCH FAVORS SHADERS OVER OPTIFINE
 
-Just a nice little set of mods that myself and others have been using in Minecraft. Only adding 1.8 for now.
+For the non-shaders version of the mods, see the master branch:
+[https://github.com/derrickorama/minecraft-modpack](https://github.com/derrickorama/minecraft-modpack)
 
 Prerequisites (in /installers directory):
 
@@ -19,6 +22,7 @@ Mods included:
 * [More Enchantments](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1445082-more-enchantments) (1.3.2.1)
 * [Progressive Automation](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076388-progressive-automation) (1.6.15)
 * [Quick Hotbar](http://www.quickhotbar.com) (1.04)
+* [ShadersMod](http://shadersmod.net/version-1-8/) (2.4.12)
 * [Shipwrecks!](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291627-shipwrecks) (1.7.0)
 * [Simple Recipes](http://www.wuppy29.com/minecraft/category/simple-recipes/) (1.9.0)
 * [Simple Refinement](http://www.curse.com/mc-mods/minecraft/227221-simple-refinement) (1.0)
