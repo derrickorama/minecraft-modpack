@@ -1,5 +1,8 @@
 Just a nice little set of mods that myself and others have been using in Minecraft. Only adding 1.8 for now.
 
+For shaders version of the mods, see the master branch:
+[https://github.com/derrickorama/minecraft-modpack/tree/shaders](https://github.com/derrickorama/minecraft-modpack/tree/shaders)
+
 Prerequisites (in /installers directory):
 
 * [Forge](http://files.minecraftforge.net) (11.14.1.1473)
