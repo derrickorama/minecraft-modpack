@@ -28,7 +28,7 @@ Mods included:
 * [Simple Refinement](http://www.curse.com/mc-mods/minecraft/227221-simple-refinement) (1.0)
 * [Vein Miner](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292260-1-5-x-1-6-x-vein-miner) (0.27.0)
 * [Village Info](http://chunkbase.com/mods/village-info) (2.1)
-* [VoxelMap](http://minecraft.curseforge.com/mc-mods/225179-voxelmap) (1.5.13)
+* [VoxelMap](http://minecraft.curseforge.com/mc-mods/225179-voxelmap) (1.5.15)
 * [Xaero's Special Attacks](http://www.planetminecraft.com/mod/forge164xaeros-special-attacks-v100/) (2.0.1)
 * [YAFM and airbreathercore](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292539-yafm-yet-another-food-mod) (1.0.4 / 1.0.1)
 
