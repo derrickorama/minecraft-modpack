@@ -18,7 +18,6 @@ Mods included:
 * [Item Physics (Full)](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076336-itemphysic) (1.1.4)
 * [Lucky Block](http://www.minecraftascending.com/projects/lucky_block/lucky_block.html) (6.0.0)
 * [More Enchantments](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1445082-more-enchantments) (1.3.2.1)
-* [Multi Mine](http://atomicstryker.net/multimine.php) (??? no version listed)
 * [OptiFine](http://optifine.net) (HD U D3)
 * [Progressive Automation](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076388-progressive-automation) (1.6.15)
 * [Quick Hotbar](http://www.quickhotbar.com) (1.04)
