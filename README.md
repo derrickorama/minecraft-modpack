@@ -7,7 +7,7 @@ For the non-shaders version of the mods, see the master branch:
 
 Prerequisites (in /installers directory):
 
-* [Forge](http://files.minecraftforge.net) (11.14.1.1449)
+* [Forge](http://files.minecraftforge.net) (11.14.1.1473)
 * [LiteLoader](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290155-liteloader-for-minecraft-1-7-10) (Build #45)
 
 Mods included:
@@ -18,7 +18,7 @@ Mods included:
 * [Dr. Cyano's Lootable Bodies](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2298198-dr-cyanos-lootable-bodies) (1.3.5)
 * [Inventory Tweaks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks) (1.59-176)
 * [Item Physics (Full)](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076336-itemphysic) (1.1.4)
-* [Lucky Block](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292247-lucky-block) (6.0.0)
+* [Lucky Block](http://www.minecraftascending.com/projects/lucky_block/lucky_block.html) (6.0.0)
 * [More Enchantments](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1445082-more-enchantments) (1.3.2.1)
 * [Multi Mine](http://atomicstryker.net/multimine.php) (??? no version listed)
 * [Progressive Automation](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076388-progressive-automation) (1.6.15)
@@ -35,7 +35,8 @@ Mods included:
 
 Notes & Todos:
 
-* Support 1.8.1+ once most of these mods are available.
+* Holding back on updating to Forge > v11.14.1.1473 (not working with many mods)
+* Support 1.8.1+ once most of these mods are available (really just waiting for Forge).
 
 Under Consideration
 
