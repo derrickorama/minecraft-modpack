@@ -20,7 +20,7 @@ Mods included:
 * [Lucky Block](http://www.minecraftascending.com/projects/lucky_block/lucky_block.html) (6.0.0)
 * [Minecraft Comes Alive](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280154-minecraft-comes-alive) (5.0.6.1)
 * [More Enchantments](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1445082-more-enchantments) (1.3.2.1)
-* [OptiFine](http://optifine.net) (HD U D3)
+* [OptiFine](http://optifine.net) (HD U D5)
 * [Player API](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277996-player-api) (1.3)
 * [Progressive Automation](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076388-progressive-automation) (1.6.15)
 * [Quick Hotbar](http://www.quickhotbar.com) (1.04)
