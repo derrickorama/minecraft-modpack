@@ -17,6 +17,7 @@ Mods included:
 * [Craftable Horse Armour & Saddle](http://www.curse.com/mc-mods/minecraft/224841-craftable-horse-armour-saddle) (1.2.1)
 * [Damage Indicators](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286538-hit-splat-damage-indicators) (3.3.3)
 * [Dr. Cyano's Lootable Bodies](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2298198-dr-cyanos-lootable-bodies) (1.3.5)
+* [Exp Chest](http://minecraft.curseforge.com/mc-mods/63715-exp-chest/) (4.0)
 * [Inventory Tweaks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks) (1.59-176)
 * [Item Physics (Full)](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076336-itemphysic) (1.1.4)
 * [Lucky Block](http://www.minecraftascending.com/projects/lucky_block/lucky_block.html) (6.0.0)
