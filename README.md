@@ -3,6 +3,8 @@ Just a nice little set of mods that myself and others have been using in Minecra
 For shaders version of the mods, see the master branch:
 [https://github.com/derrickorama/minecraft-modpack/tree/shaders](https://github.com/derrickorama/minecraft-modpack/tree/shaders)
 
+# 1.8
+
 Prerequisites (in /installers directory):
 
 * [Forge](http://files.minecraftforge.net) (11.14.1.1473)
@@ -35,13 +37,26 @@ Mods included:
 * [Xaero's Special Attacks](http://www.planetminecraft.com/mod/forge164xaeros-special-attacks-v100/) (2.0.1)
 * [YAFM and airbreathercore](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292539-yafm-yet-another-food-mod) (1.0.4 / 1.0.1)
 
-Notes & Todos:
+# 1.9
 
-* Holding back on updating to Forge > v11.14.1.1473 (not working with many mods)
-* Support 1.8.1+ once most of these mods are available (really just waiting for Forge).
+Prerequisites (in /installers directory):
 
-Under Consideration
+* [Forge](http://files.minecraftforge.net) (12.16.0.1802)
 
+Mods included:
+
+* [Inventory Tweaks](https://github.com/Inventory-Tweaks/inventory-tweaks) (1.61-dev-44)
+* [ItemPhysic Lite](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076336-itemphysics) (1.3)
+* [OptiFine](http://optifine.net) (HD U B1)
+* [Xaeros Minimap](http://www.minecraft-downloads.com/xaeros-minimap/) (1.8.5.1)
+ * Note: 1.8.5.2 crashed game
+
+# Notes & Todos
+
+Mods Under Consideration:
+
+* [Biomes O' Plenty](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286162-biomes-o-plenty)
+* [Storage Drawers Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533-storage-drawers)
 * [HxC-Core Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2351391-hxc-mods)
 * [Igneous Additions](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2357019-igneous-additions)
 * [Zombie Infection](http://www.curse.com/mc-mods/minecraft/227518-zombie-infection)
